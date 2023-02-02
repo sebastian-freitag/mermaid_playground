@@ -6,7 +6,7 @@ https://mermaid.js.org/syntax/gitgraph.html
 
 ```mermaid
 ---
-title: Example Git diagram
+title: Mermaid is supported by github and has a nice git graph feature
 ---
 gitGraph
    commit

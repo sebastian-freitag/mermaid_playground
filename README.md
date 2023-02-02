@@ -11,12 +11,12 @@ title: Example Git diagram
 gitGraph
    commit
    commit
-   branch develop
-   checkout develop
+   branch FS-1234
+   checkout FS-1234
    commit
    commit
    checkout main
-   merge develop
+   merge FS-1234
    commit
    commit
 ```
